@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_price_portion_sizes",
+  "info": {
+    "displayName": "Portioned Price",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "portion": {
+      "displayName": "Portion",
+      "type": "component",
+      "repeatable": true,
+      "component": "price.portion",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_price_regular_prices",
+  "info": {
+    "displayName": "Regular Price"
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "decimal",
+      "required": true
+    }
+  }
+}

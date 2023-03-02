@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_price_portions",
+  "info": {
+    "displayName": "Portion"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": false
+    },
+    "price": {
+      "type": "decimal",
+      "required": true
+    }
+  }
+}
