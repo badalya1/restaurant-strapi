@@ -4,14 +4,14 @@ specifiers:
   '@strapi/plugin-i18n': 4.7.1
   '@strapi/plugin-users-permissions': 4.7.1
   '@strapi/strapi': 4.7.1
-  better-sqlite3: 8.1.0
+  better-sqlite3: 8.2.0
   slugify: ^1.6.5
 
 dependencies:
   '@strapi/plugin-i18n': 4.7.1
   '@strapi/plugin-users-permissions': 4.7.1
-  '@strapi/strapi': 4.7.1_better-sqlite3@8.1.0
-  better-sqlite3: 8.1.0
+  '@strapi/strapi': 4.7.1_better-sqlite3@8.2.0
+  better-sqlite3: 8.2.0
   slugify: 1.6.5
 
 packages:
@@ -2132,7 +2132,7 @@ packages:
       lodash.deburr: 4.1.0
     dev: false
 
-  /@strapi/admin/4.7.1_hytypoyh3my5yu5n2naiignqw4:
+  /@strapi/admin/4.7.1_ytaimx6tkz4qxlktmxuptw6bue:
     resolution: {integrity: sha512-n0kWb28If2koTThVuFrAdqmPyZrWPrALSRE5fWgus+Nhn8LghgQsCzlALWvpXfqWQS4uilvrTLZdJM/q24VSEg==}
     engines: {node: '>=14.19.1 <=18.x.x', npm: '>=6.0.0'}
     peerDependencies:
@@ -2147,13 +2147,13 @@ packages:
       '@fingerprintjs/fingerprintjs': 3.3.6
       '@pmmmwh/react-refresh-webpack-plugin': 0.5.10_e764yt37rymiplqgpb7fiwcihu
       '@strapi/babel-plugin-switch-ee-ce': 4.7.1
-      '@strapi/data-transfer': 4.7.1_und3czgkbiuinylybr3eb5noxq
+      '@strapi/data-transfer': 4.7.1_yvb5xge2jn64l34mkpa4nmdw3m
       '@strapi/design-system': 1.6.3_gk7z5r5ook363irjwtf36ph56m
       '@strapi/helper-plugin': 4.7.1_nlxn4hvjuw5jwohb47ymfg2lv4
       '@strapi/icons': 1.6.3_sfoxds7t5ydpegc3knd667wn6m
       '@strapi/permissions': 4.7.1
       '@strapi/provider-audit-logs-local': 4.7.1
-      '@strapi/strapi': 4.7.1_better-sqlite3@8.1.0
+      '@strapi/strapi': 4.7.1_better-sqlite3@8.2.0
       '@strapi/typescript-utils': 4.7.1
       '@strapi/utils': 4.7.1
       axios: 1.2.2_debug@4.3.4
@@ -2279,12 +2279,12 @@ packages:
       resolve: 1.20.0
     dev: false
 
-  /@strapi/data-transfer/4.7.1_better-sqlite3@8.1.0:
+  /@strapi/data-transfer/4.7.1_better-sqlite3@8.2.0:
     resolution: {integrity: sha512-7LjiAWU0CzwR4ucaDxPzjZYudPcn5n5bsTrroduzUP1029a8xpHcS4WCzqGcRLzGsNg50IQy3Q9Kzhs+wk9bww==}
     engines: {node: '>=14.19.1 <=18.x.x', npm: '>=6.0.0'}
     dependencies:
       '@strapi/logger': 4.7.1
-      '@strapi/strapi': 4.7.1_better-sqlite3@8.1.0
+      '@strapi/strapi': 4.7.1_better-sqlite3@8.2.0
       chalk: 4.1.2
       fs-extra: 10.0.0
       lodash: 4.17.21
@@ -2335,12 +2335,12 @@ packages:
       - webpack-plugin-serve
     dev: false
 
-  /@strapi/data-transfer/4.7.1_und3czgkbiuinylybr3eb5noxq:
+  /@strapi/data-transfer/4.7.1_yvb5xge2jn64l34mkpa4nmdw3m:
     resolution: {integrity: sha512-7LjiAWU0CzwR4ucaDxPzjZYudPcn5n5bsTrroduzUP1029a8xpHcS4WCzqGcRLzGsNg50IQy3Q9Kzhs+wk9bww==}
     engines: {node: '>=14.19.1 <=18.x.x', npm: '>=6.0.0'}
     dependencies:
       '@strapi/logger': 4.7.1
-      '@strapi/strapi': 4.7.1_und3czgkbiuinylybr3eb5noxq
+      '@strapi/strapi': 4.7.1_yvb5xge2jn64l34mkpa4nmdw3m
       chalk: 4.1.2
       fs-extra: 10.0.0
       lodash: 4.17.21
@@ -2375,14 +2375,14 @@ packages:
       - utf-8-validate
     dev: false
 
-  /@strapi/database/4.7.1_better-sqlite3@8.1.0:
+  /@strapi/database/4.7.1_better-sqlite3@8.2.0:
     resolution: {integrity: sha512-IBzIFcoakt7qi1JKJVea9jnZGhJoeYo9L1ET3Qce8jLzkiTzrBtdvjElswQ+C3AgsKL7GXR21+0b/Uv0TrIHLg==}
     engines: {node: '>=14.19.1 <=18.x.x', npm: '>=6.0.0'}
     dependencies:
       date-fns: 2.29.3
       debug: 4.3.4
       fs-extra: 10.0.0
-      knex: 2.4.0_better-sqlite3@8.1.0
+      knex: 2.4.0_better-sqlite3@8.2.0
       lodash: 4.17.21
       semver: 7.3.8
       umzug: 3.1.1
@@ -2807,7 +2807,7 @@ packages:
       fs-extra: 10.0.0
     dev: false
 
-  /@strapi/strapi/4.7.1_better-sqlite3@8.1.0:
+  /@strapi/strapi/4.7.1_better-sqlite3@8.2.0:
     resolution: {integrity: sha512-5SMgdiK97yZLuuTjnc2tXhKh7sE5VKeN0v/MKmZRYij+/YVRd6xk2X1syn+hfM4E02rAqaSNuovQUtD+SF16ag==}
     engines: {node: '>=14.19.1 <=18.x.x', npm: '>=6.0.0'}
     hasBin: true
@@ -2815,9 +2815,9 @@ packages:
     dependencies:
       '@koa/cors': 3.4.3
       '@koa/router': 10.1.1
-      '@strapi/admin': 4.7.1_hytypoyh3my5yu5n2naiignqw4
-      '@strapi/data-transfer': 4.7.1_better-sqlite3@8.1.0
-      '@strapi/database': 4.7.1_better-sqlite3@8.1.0
+      '@strapi/admin': 4.7.1_ytaimx6tkz4qxlktmxuptw6bue
+      '@strapi/data-transfer': 4.7.1_better-sqlite3@8.2.0
+      '@strapi/database': 4.7.1_better-sqlite3@8.2.0
       '@strapi/generate-new': 4.7.1
       '@strapi/generators': 4.7.1
       '@strapi/logger': 4.7.1
@@ -2906,7 +2906,7 @@ packages:
       - webpack-plugin-serve
     dev: false
 
-  /@strapi/strapi/4.7.1_und3czgkbiuinylybr3eb5noxq:
+  /@strapi/strapi/4.7.1_yvb5xge2jn64l34mkpa4nmdw3m:
     resolution: {integrity: sha512-5SMgdiK97yZLuuTjnc2tXhKh7sE5VKeN0v/MKmZRYij+/YVRd6xk2X1syn+hfM4E02rAqaSNuovQUtD+SF16ag==}
     engines: {node: '>=14.19.1 <=18.x.x', npm: '>=6.0.0'}
     hasBin: true
@@ -2914,9 +2914,9 @@ packages:
     dependencies:
       '@koa/cors': 3.4.3
       '@koa/router': 10.1.1
-      '@strapi/admin': 4.7.1_hytypoyh3my5yu5n2naiignqw4
-      '@strapi/data-transfer': 4.7.1_better-sqlite3@8.1.0
-      '@strapi/database': 4.7.1_better-sqlite3@8.1.0
+      '@strapi/admin': 4.7.1_ytaimx6tkz4qxlktmxuptw6bue
+      '@strapi/data-transfer': 4.7.1_better-sqlite3@8.2.0
+      '@strapi/database': 4.7.1_better-sqlite3@8.2.0
       '@strapi/generate-new': 4.7.1
       '@strapi/generators': 4.7.1
       '@strapi/logger': 4.7.1
@@ -3808,8 +3808,8 @@ packages:
     resolution: {integrity: sha512-V/Hy/X9Vt7f3BbPJEi8BdVFMByHi+jNXrYkW3huaybV/kQ0KJg0Y6PkEMbn+zeT+i+SiKZ/HMqJGIIt4LZDqNQ==}
     dev: false
 
-  /better-sqlite3/8.1.0:
-    resolution: {integrity: sha512-p1m09H+Oi8R9TPj810pdNswMFuVgRNgCJEWypp6jlkOgSwMIrNyuj3hW78xEuBRGok5RzeaUW8aBtTWF3l/TQA==}
+  /better-sqlite3/8.2.0:
+    resolution: {integrity: sha512-8eTzxGk9535SB3oSNu0tQ6I4ZffjVCBUjKHN9QeeIFtphBX0sEd0NxAuglBNR9TO5ThnxBB7GqzfcYo9kjadJQ==}
     requiresBuild: true
     dependencies:
       bindings: 1.5.0
@@ -6719,7 +6719,7 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /knex/2.4.0_better-sqlite3@8.1.0:
+  /knex/2.4.0_better-sqlite3@8.2.0:
     resolution: {integrity: sha512-i0GWwqYp1Hs2yvc2rlDO6nzzkLhwdyOZKRdsMTB8ZxOs2IXQyL5rBjSbS1krowCh6V65T4X9CJaKtuIfkaPGSA==}
     engines: {node: '>=12'}
     hasBin: true
@@ -6747,7 +6747,7 @@ packages:
       tedious:
         optional: true
     dependencies:
-      better-sqlite3: 8.1.0
+      better-sqlite3: 8.2.0
       colorette: 2.0.19
       commander: 9.5.0
       debug: 4.3.4
