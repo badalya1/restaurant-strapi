@@ -11,10 +11,10 @@
     "generate": "strapi ts:generate-types --verbose"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.10.5",
-    "@strapi/plugin-users-permissions": "4.10.5",
-    "@strapi/strapi": "4.10.5",
-    "better-sqlite3": "8.3.0",
+    "@strapi/plugin-i18n": "4.10.7",
+    "@strapi/plugin-users-permissions": "4.10.7",
+    "@strapi/strapi": "4.10.7",
+    "better-sqlite3": "8.4.0",
     "slugify": "^1.6.6"
   },
   "author": {
