@@ -1,5 +1,5 @@
 import slugify from "slugify";
-import  { ApplicationError } from "@strapi/utils";
+import { ApplicationError } from "@strapi/utils";
 
 module.exports = {
   async beforeCreate(event) {
